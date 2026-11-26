@@ -6,8 +6,8 @@ Stdlib only. The entry is a single line, 1-200 characters, UTF-8.
 import os
 
 ENTRY = (
-    "Jupiter is now 'The Bouncer' because it's spent 4.5 billion years "
-    "throwing asteroids out of the solar system's club before they can start a fight."
+    "Jupiter is now 'The Bouncer' — 4.5 billion years throwing asteroids "
+    "out of the solar system's club before they can start one."
 )
 
 
